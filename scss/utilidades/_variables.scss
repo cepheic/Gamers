@@ -1,0 +1,25 @@
+$color-principalindex:#292929;
+$color-principalps4:#015DAB;
+$color-principalxbox:#107C10;
+$color-principalswitch:#E70014;
+$color-principalpc:#12151A;
+
+body{
+    background: #292929;
+    
+
+    &.bodyps4{
+        background:#015DAB ;
+    }
+    &.bodyxbox{
+        background:#107C10 ;
+    }
+    &.bodyswitch{
+        background: #E70014;
+    }
+    &.bodypc{
+        background:#12151A  ;
+    }
+
+} 
+
